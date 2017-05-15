@@ -1,0 +1,27 @@
+.class_page_tab{width:100%;background:#f8c858;}
+.class_page_tab ul li{float:left;width:50%;text-align:center;color:#fff;font-size:16px;height:45px;line-height:45px;cursor:pointer;}
+.class_page_tab ul li:hover{background:#fff;color:#f8c858;font-weight:bolder;}
+.class_page_tab ul li.point{background:#fff;color:#f8c858;font-weight:bolder;}
+
+.class_main_part_one,.class_main_part_two,.class_main_part_three{padding:30px 0;}
+.class_main_part_one dl,.class_main_part_two dl,.class_main_part_three ul li{float:left;width:33.3333%;}
+.class_main_part_one dl dt{width:40%;margin:0 auto;}
+.class_main_part_one dl dt img{width:100%;max-width:154px;}
+.class_main_part_one dl dd,.class_main_part_three ul li p{color:#333;line-height:22px;font-size:14px;text-align:center;padding:10px 0;}
+
+.class_main_part_two dl dt{background:#ddd;width:90%;height:100px;margin:0 auto;}
+.class_main_part_two dl dd{color:#fff;line-height:22px;font-size:14px;text-align:center;padding:10px 0;}
+
+.class_main_part_three ul li{text-align:center;}
+.class_main_part_three ul li h2{color:#f4b31e;font-size:24px; font-weight:bolder;}
+
+.class_main_part_four_p{margin:20px auto;color:#fff;font-size:12px;line-height:22px;width:80%;text-align:center;}
+.coach_list dl{padding:10px 0;}
+.coach_list dl dt{float:left;background:#ddd;width:15%;height:100px;}
+.coach_list dl dd{float:left;width:83%;margin:0 0 0 2%;}
+.coach_list dl dd h4{color:#fff;font-size:16px;line-height:22px;}
+.coach_list dl dd h5{color:#fff;font-size:14px;line-height:20px;}
+.coach_list dl dd p{color:#fff;font-size:12px;line-height:20px;}
+
+
+.class_page_main .class_main_one,.class_page_main .class_main_two{display:none;}
